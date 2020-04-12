@@ -1,0 +1,9 @@
+[package]
+name = "demo-rust-actix"
+version = "1.0.0"
+authors = ["Haci Murat Yaman<muratyaman@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+actix-web = "2.0"
+actix-rt = "1.0"
